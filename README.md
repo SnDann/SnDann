@@ -2,6 +2,7 @@
  Técnico de Enfermagem → Full Stack Developer
 Transformando experiência em saúde em soluções tecnológicas
  .NET | C# | JavaScript | SQL Server | Azure
+ 
  São Paulo, SP | Aberto a oportunidades
 
 
