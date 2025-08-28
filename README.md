@@ -1,5 +1,8 @@
 # 💫 About Me:
-Sou um profissional dedicado e com experiência sólida como Técnico de Enfermagem em ambientes hospitalares de alta complexidade. Tenho facilidade para trabalhar em equipe, agir com empatia e manter o foco mesmo em situações de pressão. Busco constantemente o aprimoramento técnico e pessoal, e também desenvolvo projetos na área de tecnologia como programador autodidata, ampliando minhas habilidades e visão multidisciplinar.
+ Técnico de Enfermagem → Full Stack Developer
+Transformando experiência em saúde em soluções tecnológicas
+ .NET | C# | JavaScript | SQL Server | Azure
+ São Paulo, SP | Aberto a oportunidades
 
 
 ## 🌐 Socials:
